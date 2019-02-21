@@ -8,4 +8,4 @@
 :point_right: We are on the talent hunt
 
 # How to reach :grey_question:
-<img align="left" src="https://raw.githubusercontent.com/decombh/exams-2019/master/assets/images/email.png"  width="200">
+<img align="left" src="https://raw.githubusercontent.com/decombh/exams-2019/master/assets/images/email.png"  width="176">
