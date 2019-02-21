@@ -1,10 +1,10 @@
-#Introduction
+# Introduction
 Please don't re-invent things, if you are not sure about certain elements then explore or find a proper inspiration, re-inventing elements that do not exist is not recommended.
 Try to not mix 5 styles into one, it's almost impossible to do that as website should be simple for every user from 9 to 99 years old.
 
 
 
-##Project
+## Project
 Please find 5 (five) random modern websites, self-asssessed and share with your  `mentor` to pick 1 (one). 
 
 - 5 to 7 pages should be re-designed 
@@ -20,12 +20,12 @@ Please find 5 (five) random modern websites, self-asssessed and share with your 
 
 
 
-##Presentation
+## Presentation
 The selected website should be presented via MarvelApp or via InvisionApp, the designer should also upload project files/visual to her/his Behance profile.
 
 
 
-##Resources
+## Resources
 The designer should replace copyright images/media, so here are resources for that:
 * Photos: Unsplash.com
 * Photos: Pixabay.com
@@ -34,7 +34,7 @@ The designer should replace copyright images/media, so here are resources for th
 
 
 
-##Tools 
+## Tools 
 Designer is free to decide what tools will be used: 
 - Photoshop
 - Figma
@@ -44,5 +44,5 @@ Designer is free to decide what tools will be used:
 
 
 
-##Deadline
+## Deadline
 You are free to schedule `time` however you want, but when you plan to `start` you must send a message to `mentor` , so we all know the timeline `when its starter` and `when it is finished` - time will be taken into consideration.
