@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <a href="https://careers.decom.ba/?src=decom-github-exams" target="_blank"><img src="https://raw.githubusercontent.com/decombh/exams-2019/master/assets/images/header.png" alt="header" width="600"></a>
   <br>
 </h1>
