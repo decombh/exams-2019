@@ -48,5 +48,5 @@ Designer is free to decide what tools will be used:
 You are free to schedule `time` however you want, but when you plan to `start` you must send a message to `mentor` , so we all know the timeline `when its starter` and `when it is finished` - time will be taken into consideration.
 
 
-# How to reach :grey_question:
+## How to reach :grey_question:
 <img align="left" src="https://raw.githubusercontent.com/decombh/exams-2019/master/assets/images/touch.png"  width="176">
