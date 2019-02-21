@@ -1,2 +1,2 @@
-# exams-2019
-exams for designers &amp; developers
+# Decom 2019
+Small tests for designers &amp; developers
