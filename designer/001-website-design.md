@@ -12,8 +12,8 @@ Please find 5 (five) random modern websites, self-assessed and share with your m
     - a website should keep color styles but it isn't `a must`
 - devices design should be done for 2 pages per device
     - desktop view size: 1920 x 9999
-    - mobile view size: 412 x 9999
     - tablet view size: 768 x 9999
+    - mobile view size: 412 x 9999
 - icons should be replaced with fontawesome icon sets, please use SVGs instead of PNGs
 - this project is more about usability than anything else
 
