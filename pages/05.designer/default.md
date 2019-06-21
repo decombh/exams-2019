@@ -1,3 +1,11 @@
+---
+title: ''
+media_order: ''
+body_classes: ''
+order_by: ''
+order_manual: ''
+---
+
 # Introduction
 Please don't re-invent things, if you are not sure about certain elements then explore or find a proper inspiration, re-inventing elements that do not exist is not recommended. Try to not mix 5 styles into one, it's almost impossible to do that as the website should be simple for every user from 9 to 99 years old.
 
