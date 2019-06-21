@@ -1,4 +1,11 @@
-# Introduction
+---
+title: Developer
+taxonomy:
+    category:
+        - docs
+visible: true
+---
+
 Custom development of WordPress website from scratch or using starter theme like _underscore, sage etc...
 
 
